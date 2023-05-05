@@ -1,5 +1,5 @@
-use std::io::stdin
-;
+use std::io::stdin;
+
 fn main() {
 
 let mut input_use = String::new();
